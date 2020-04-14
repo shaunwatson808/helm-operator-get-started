@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: shaunwatson/helm-operator-get-started
-      tag: dev-zneywmcx
+      tag: dev-bgcgeegi
     replicaCount: 1
     hpa:
       enabled: false
