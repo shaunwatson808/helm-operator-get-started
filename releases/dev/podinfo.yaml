@@ -12,11 +12,11 @@ spec:
   chart:
     git: git@github.com:shaunwatson808/helm-operator-get-started
     path: charts/podinfo
-    ref: master
+    ref: dev
   values:
     image:
       repository: shaunwatson/helm-operator-get-started
-      tag: dev-do0o6a1v
+      tag: dev-djl471j2
     replicaCount: 1
     hpa:
       enabled: false
