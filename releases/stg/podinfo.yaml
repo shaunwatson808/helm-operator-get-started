@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: shaunwatson/helm-operator-get-started
-      tag: stg-1ztgjtiy
+      tag: stg-gcctqezk
     replicaCount: 2
     hpa:
       enabled: true
