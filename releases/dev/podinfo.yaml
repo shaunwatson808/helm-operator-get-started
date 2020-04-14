@@ -12,7 +12,7 @@ spec:
   chart:
     git: git@github.com:shaunwatson808/helm-operator-get-started
     path: charts/podinfo
-    ref: master
+    ref: dev
   values:
     image:
       repository: shaunwatson/helm-operator-get-started
